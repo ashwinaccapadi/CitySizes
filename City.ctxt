@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=City
+comment1.params=
+comment1.target=City()
+comment2.params=c
+comment2.target=City(HashMap)
+comment3.params=c
+comment3.target=void\ setCities(HashMap)
+comment4.params=
+comment4.target=java.util.ArrayList\ thePrint()
+numComments=5
